@@ -25,11 +25,11 @@ Um aplicativo simples em JavaScript para gerenciar suas metas diárias. Com esta
    cd seu-repositorio
 
 2. Instale as dependências:
-
+    ```bash
     npm install
 
 3. Execução (Para executar a aplicação, use o seguinte comando):
-
+    ```bash
     npm start
 
 ## Uso
@@ -45,7 +45,7 @@ Um aplicativo simples em JavaScript para gerenciar suas metas diárias. Com esta
 
 ### Instruções para Uso
 
-1. **Copie o texto acima** e cole em um arquivo chamado `README.md` na raiz do seu projeto.
-2. **Modifique o link do repositório** na seção de instalação conforme necessário.
+1. **Copie a url do projeto** e cole em um git usando o comando chamado `gitclone` na raiz do seu projeto.
+2. **Modifique o código e públique** no seu github, não esqueça de marcar.
 
 Se precisar de mais alguma coisa, é só avisar!
