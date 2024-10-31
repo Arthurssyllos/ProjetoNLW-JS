@@ -1,0 +1,14 @@
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^1.0.0",
+    "chalk": "^5.0.0",
+    "ora": "^6.0.0"
+  }
+}
